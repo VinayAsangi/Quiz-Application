@@ -54,5 +54,3 @@ As per standard design principles has four layers controller, Service, Repositor
   Contributions are welcome! Feel free to submit issues or create pull requests to enhance the project.
 
 ## Happy Coding! 🎉
-    
-      - 
